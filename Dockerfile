@@ -1,4 +1,4 @@
-FROM node:6.4
+FROM node:6.5
 
 ENV TFX_CLI_VERSION 0.3.28
 
